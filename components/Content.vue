@@ -1,10 +1,12 @@
 <template>
-$END$
+<div>
+  主体内容
+</div>
 </template>
 
 <script>
 export default {
-name: "Body"
+  name: 'Content'
 }
 </script>
 
